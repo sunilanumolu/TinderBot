@@ -19,4 +19,3 @@ make sure don't get caught by using tinder detecting bot algo, you will get bann
 
 can add more features
 
-follow Code Drip on YouTube, he has many interesting videos
